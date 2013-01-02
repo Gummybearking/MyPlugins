@@ -1,0 +1,11 @@
+name: ChestArena
+version: 1.2
+main: ChestArena.me.max.java.ChestArena
+depend: [Vault]
+commands:
+  ca:
+    description: Access CA Commands
+  ChestArena:
+    description: Get the time until the next Arena
+  Portal:
+    description: Get the time until the CTP game

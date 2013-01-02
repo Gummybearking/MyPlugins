@@ -1,0 +1,27 @@
+Chest:
+  x: 0
+  y: 0
+  z: 0
+  Rewards:
+  - BOW;1-2;99;POWER-1
+  Rares:
+  - DIAMOND;5-10;100
+  Books:
+Arena-World: world
+Capture-Time: 60
+Game-Interval:
+  hours: 3
+  minutes: 0
+Messages:
+    Range-Distance: 50
+    New-Capturing-Clan: '&e%p has started to capture the chest for the clan %c'
+    Same-Clan: '&eYour clan is already capturing this!'
+    Chest-Selected: '&eChest has been chosen!'
+    Time-Remaining-Message: '&eOnly %t more seconds until the capturing is complete!'
+    Game-Start: '&eThe Game has begun! Go to /warp portal to get some sweeeeet loot'
+    Game-End: '&eThe Game has eneded, with the clan %c &etaking the chest'
+    Admin-End: '&eAn Administrator has ended the game'
+    Capturing-Player-Injured: '%p &ewas capturing the chest, but was injured. This means that noone is currently Capturing the chest!'
+    Capturing-Player-Left: '&e%p&e was capturing the chest, but has left the game, the chest is now open for capture!'
+    Open-Failed: 'Derp'
+Time-Left: 0
