@@ -1,6 +1,0 @@
-name: RemoteShowcase
-version: 1.0
-main: RS.java.me.max.RemoteShowcase
-commands:
-  shop:
-    description: Use to create a shope remotley

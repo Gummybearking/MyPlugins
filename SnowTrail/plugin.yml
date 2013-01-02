@@ -1,6 +1,0 @@
-name: SnowTrail
-version: 1.2
-main: me.max.SnowTrail.SnowMain
-commands:
-  SnowTrail:
-    description: Snowed it up

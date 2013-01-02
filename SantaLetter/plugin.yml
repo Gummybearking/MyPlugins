@@ -1,6 +1,0 @@
-name: SantaLetter
-version: 1.0
-main: SantaLetter.me.max.SantaLetter
-commands:
-  slc:
-    description: Snowed it up

@@ -1,7 +1,0 @@
-name: Races
-version: 1.8.4
-main: max.is.awesome.races
-depend: [Vault]
-commands:
-  races:
-    description: everything races

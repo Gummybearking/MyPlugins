@@ -1,7 +1,0 @@
-name: PortaPortal
-main: me.max.portaportal
-version: 1.0
-commands:
-  Portal:
-    description: Summons a portal
-depend: [Vault]

@@ -1,5 +1,0 @@
-name: BedrockDelay
-version: 1.0
-main: me.max.bd
-
-depend: [Vault]
