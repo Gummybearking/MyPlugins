@@ -1,0 +1,7 @@
+chance: 10
+minLightLevel: 2
+failMessage: 'Dang, I missed... mining in the dark is hard!'
+successMessage: 'Got it this time, but mining in the dark is hard, I should place a torch!'
+MinY: 20
+World-BlackList:
+- Skylands

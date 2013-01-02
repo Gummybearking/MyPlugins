@@ -1,0 +1,8 @@
+Bedrock-Delay: 60
+GoldenApple-Delay: 20
+EnderPearl-Delay: 20
+Cannot-Place-Message: '&3You must wait before placing &bbedrock&3 again!'
+Cannot-Eat-Message: '&3You cannot eat &6Golden Apples&3 again yet!'
+Cannot-Use-Pearl-Message: '&3You cannot use an &9Enderpearl&3 again yet!'
+Potions:
+- 373-16452-60

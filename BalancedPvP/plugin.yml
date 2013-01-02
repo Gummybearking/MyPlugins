@@ -1,0 +1,4 @@
+name: BalancedPvP
+version: 1.3
+main: BalancedPvP.Gummy.bear.king.java.BPMain
+depend: [Vault]

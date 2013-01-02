@@ -1,0 +1,4 @@
+name: EnderRace
+version: 1.0
+main: me.max.ender
+depend: [Vault]

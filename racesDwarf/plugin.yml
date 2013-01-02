@@ -1,0 +1,4 @@
+name: DwarfRace
+version: 1.0
+main: me.max.dwarf
+depend: [Vault]

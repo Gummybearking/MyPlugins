@@ -1,0 +1,4 @@
+name: CreeperRace
+version: 1.0
+main: me.max.creeper
+depend: [Vault]

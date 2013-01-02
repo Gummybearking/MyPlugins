@@ -1,0 +1,4 @@
+name: CatRace
+version: 1.0
+main: me.max.cat
+depend: [Vault]

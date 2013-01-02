@@ -1,0 +1,13 @@
+Balanced-PvP:
+  Options:
+    Enable-For-PvP: true
+    Enable-For-PvM: false
+    Calculate-Prot-Enchant: true
+    Prot-Enchant-Modification: 0.0
+    Armor-Points-To-HalfHeart: 4.0
+    Death-Delay: 180
+    Death-To-Delay:
+    - back
+    Death-Delay-Message: '&3You cannot use that for %t more seconds'
+    Towny-To-Deny:
+    - sethome

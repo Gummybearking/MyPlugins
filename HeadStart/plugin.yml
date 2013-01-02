@@ -1,0 +1,4 @@
+main: me.max.main
+version: 1.0
+name: HeadStart
+depends: [Vault]

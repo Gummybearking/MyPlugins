@@ -1,0 +1,11 @@
+name: BlockIdentifier
+main: BlockIdentifier.BlockId
+version: 1.1
+author: Max Johnson Aka Gumybearking
+commands:
+  getid:
+    description: Tells you the id of the block in-hand
+  getblock:
+    description: Toggles the block check ability
+  getlight:
+    description: Checks the light level of the top and bottom of the block
